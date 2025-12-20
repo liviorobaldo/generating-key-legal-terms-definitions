@@ -1,3 +1,6 @@
 # generating-key-legal-terms-definitions
 
-Non è vero, stiamo cazzeggiando
+Rimettilo com'era
+Ma poi?
+
+SHACL
