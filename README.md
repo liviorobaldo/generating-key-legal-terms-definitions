@@ -1,5 +1,5 @@
 # generating-key-legal-terms-definitions
 
-Eccomi
+Non è vero
 
 SHACL
