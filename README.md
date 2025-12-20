@@ -1,5 +1,6 @@
 # generating-key-legal-terms-definitions
 
-Non è vero
+Rimettilo com'era
+Ma poi?
 
 SHACL
