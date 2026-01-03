@@ -18,7 +18,7 @@ This system generates definitions for key legal terms by:
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  Step 1: Generate Definitions (3 Models)              │
+│  Step 1: Generate Definitions (3 Models)                │
 ├─────────────────────────────────────────────────────────┤
 │  • GPT-4o-mini (OpenAI)                                 │
 │  • Llama-3.3-70b-versatile (Groq)                       │
@@ -29,14 +29,14 @@ This system generates definitions for key legal terms by:
 │  Step 2: Adjudication (Claude Sonnet 4)                 │
 ├─────────────────────────────────────────────────────────┤
 │  IF 2+ models have High confidence:                     │
-│    → Select best definition                            │
+│    → Select best definition                             │
 │  IF all models have Low/Medium confidence:              │
 │    → Regenerate definition                              │
 └─────────────────────────────────────────────────────────┘
                         ↓
 ┌─────────────────────────────────────────────────────────┐
-│  Step 3: Combine Results                               │
-│  • All model outputs                                     │
+│  Step 3: Combine Results                                │
+│  • All model outputs                                    │
 │  • Adjudicated final definitions                        │
 └─────────────────────────────────────────────────────────┘
 ```
