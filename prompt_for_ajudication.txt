@@ -1,0 +1,29 @@
+I will provide you with:
+- A key legal term that occurs in UK legislation.
+- The URL of the UK act from which the term is taken.
+- One or more paragraphs from UK case law in which the term is judicially interpreted.
+- Two or three definitions of the term derived from its judicial interpretation.
+
+Instructions:
+- Select the single most accurate definition from the two or three definitions provided.
+
+Evaluation Criteria:
+- Relevance to paragraph context
+- Quality and specificity of legal terms
+- Clear connection between case law and legislation
+- Faithfulness to judicial interpretation
+- Clarity and conciseness of reasoning
+- Legislative tone in the “definition”, without factual background or narrative
+- Focused, stepwise “reasoning” directly tied to the legal interpretation
+
+Response Format: Return only a valid JSON object with the following fields (and nothing else):
+{
+"key legal term": ...,
+"definition": ...,
+"reasoning": ...
+}
+
+Field specifications:
+- “key legal term”: the original legal term being defined.
+- “definition”: the selected definition from those provided in the input.
+- “reasoning”: a chain-of-thought analysis of why this definition was chosen.

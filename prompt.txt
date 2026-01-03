@@ -1,0 +1,41 @@
+I will provide you with:
+
+- A key legal term that occurs in UK legislation.
+- The URL of the UK act from which the term is taken.
+- One or more paragraphs from UK case law in which the term is judicially interpreted.
+Instructions:
+- Step-by-step reasoning (Chain-of-Thought): First, reason step by step about how the case-law paragraphs
+interpret the term, highlighting key legal aspects and connections to the legislation.
+- Generate definition: Based on your reasoning, produce a concise, domain-neutral definition suitable
+for inclusion in UK legislation.
+- Reference legislation if helpful: You may refer to the verbatim text of the relevant statutory sections,
+but the final definition must primarily reflect the judicial interpretation.
+
+Note:
+- Do not include background facts of the case-law paragraphs in the final definition.
+- Use standard legal phrasing from UK Acts, such as “<legal-term> is...” or “<legal-term> means...”.
+
+Evaluation Criteria:
+- Relevance to paragraph context
+- Quality and specificity of legal terms
+- Clear connection between case law and legislation
+- Avoid redundant or duplicate content
+- Faithfulness to judicial interpretation
+- Clarity and conciseness of reasoning
+- Production of only the required JSON object, with no additional commentary
+- Legislative tone in the “definition”, without factual background or narrative
+- Focused, stepwise “reasoning” directly tied to the legal interpretation
+
+Response Format: Return only a valid JSON object with the following fields (and nothing else):
+{
+"key_legal_term": "<term>",
+"definition": "<concise, domain-neutral definition>",
+"reasoning": "<step-by-step analysis linking case law and legislation>",
+"confidence": "High/Medium/Low"
+}
+
+Field specifications:
+- “key legal term”: the original legal term being defined.
+- “definition”: a concise, domain-neutral formulation suitable for inclusion in UK legislation.
+- “reasoning”: the chain-of-thought analysis showing how the paragraphs were used in the definition.
+- “confidence”: an indication of how confident you are that the definition accurately reflects the judicial interpretation (High, Medium, Low).
