@@ -138,4 +138,4 @@ python combine_results.py
 - **`definitions_llama.json`**: Output from Llama-3.3-70b
 - **`definitions_deepseek.json`**: Output from Deepseek-r1-70b
 - **`definitions_adjudicated.json`**: Final adjudicated definitions
-- **`final_combined_results.json`**: Combined results from all models
+- **`key_phrase_definitions.json`**: Combined results from all models
