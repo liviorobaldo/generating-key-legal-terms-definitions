@@ -68,7 +68,7 @@ Ensure you have `selected.json` in the project root. This file should contain an
   - `case_law_url`: URL of the case law
   - `paragraph_text`: Text of the paragraph
 
-This file can be obtained by running the system described in <a href="https://jurisinformaticscenter.github.io/jurisin2025/jurisin2025localproceedings.pdf">Kanwal, S., Robaldo, L., Anim, J., and Liga, D.: "Leveraging LLMs and LegalDocML to Extract Legal Interpretations: A Case Study on UK Legislation and Case Law," in Proceedings of the JSAI International Symposium on Artificial Intelligence.</a>
+This file can be obtained by running the system described in <a href="https://jurisinformaticscenter.github.io/jurisin2025/jurisin2025localproceedings.pdf">Kanwal, S., Robaldo, L., Anim, J., and Liga, D.: "Leveraging LLMs and LegalDocML to Extract Legal Interpretations: A Case Study on UK Legislation and Case Law," in Proc. of the JSAI International Symposium on AI.</a>
 
 ## Usage
 
