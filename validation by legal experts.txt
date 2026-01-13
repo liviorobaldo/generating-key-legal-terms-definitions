@@ -1,0 +1,251 @@
+1) "new trial"
+
+The paragraph on which the definition of the phrase "new trial" is based does not align with the definition because of the use of the word "rehearing". The paragraph talks about the distinction between an appeal and a first-instance trial, which technically is also a new trial but not a rehearing of a case that has already been heard or is being heard. The definition was not nuanced enough to capture this, as it focused only on rehearing and not fresh trials that have not been heard.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2) "administration of a child's property"
+The paragraph which the key phrase "administration of a child's property" is based on does not interpret that term, instead, it talks about medical treatment decisions and parental responsibility regarding consent for medical procedures, particularly serious medical treatment and general anaesthetic.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3) "requirements of any other enactment"
+
+The definition of the phrase "requirements of any other enactment" and the paragraph on which it is based are misaligned. The paragraph refers to relevant regulatory requirements, which may include both primary regulatory requirements and requirements arising from other enactments.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4) "reasonable to expect a parent to give"
+
+The phrase "reasonable to expect a parent to give" was not defined; the LLM states that the paragraph did not interpret it.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5) "not to have consented"
+
+The definition includes background facts from the paragraph, namely the removal of the condom.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6) "analogous institutions"
+
+The definition of the key phrase "analogous institutions" includes background facts because the paragraph on which it is based talks about guardianship and curatorship.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7) "answering any question"
+
+The paragraph on which the key phrase "answering any question" is based addresses the effect of lies on the case before a court, not the term in question.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8) "domicile, or habitual residence"
+
+The paragraph on which the key phrase "domicile, or habitual residence" is based is not sufficient to support a definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9) "causing the complainant to fear"
+
+The paragraph on which the key phrase "causing the complainant to fear" is very indirectly related to the term. The paragraph focuses primarily on rape, sexual assault and consent.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10) "care proceedings"
+
+The definition of the key phrase "care proceedings" is influenced by the background facts of the case on which it is based. The paragraph talks about the publication of persons involved in care proceedings, and the definition reflects that.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11) "balance of probabilities"
+
+The paragraph on which the key phrase "balance of probabilities" is based does not address the term in question. It discusses capacity.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12) "admissible in evidence"
+
+the definition states that a previous judgment can be considered as admissible in evidence by a court or tribunal, because the paragraph talks about a previous judgment. However, there is no reason to restrict the definition to only previous judgments
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13) "a person's best interests"
+
+The definition mirrors the reasoning in the Knight case, including context-specific guidance on weighing parental views against the child's welfare. In particular, phrases such as "even where those wishes are wholly understandable", reflect a judicial distinction relevant to that particular dispute, rather than stating the core legal meaning of best interests.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14) "matter relating to the child"
+
+The paragraph on which the phrase "matter relating to the child" is based is not substantial enough to base a definition of the key phrase on it. As a result, the attempt reflected background facts, which came in the form of protection and exposure of the child to risk, which was what the paragraph states the court was to deal with.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15) "children in England"
+
+The paragraph on which the definition of the phrase "children in England" is based is not substantial enough to support a definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16) "civil proceedings"
+
+The definition of the phrase "civil proceedings" is influenced by background facts. The paragraph on which the definition is based discusses the burden of proof, which is only one aspect of civil proceedings, and this limited focus is reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+17) "adoption orders"
+
+The definition of the key phrase “adoption orders” reflects the background facts of the two paragraphs on which it is based. Both paragraphs discuss the revocation of an adoption order, and this is reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18) "connection which the parties to the marriage have with England and Wales"
+
+The definition of the phrase "connection which the parties to the marriage have with England and Wales" reflects background facts, as it refers to the making of financial provision, which mirrors the content of the paragraph on which it is based.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+19) "consent of a minor"
+
+The paragraph on which the definition of the key phrase "consent of a minor" is based is not sufficient to support a definition. In any event, the paragraph concerns consent to medical treatment as an extension of parental responsibility, rather than consent in a general or legal sense.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+20) "relationship which the child has with relatives"
+
+The definition of the phrase "relationship which the child has with relatives" and the paragraph on which it is based are misaligned. The paragraph focuses more on adoption and the making of care arrangements. A mere mention of the relationship appears only at the tail end of the paragraph.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+21) "age, sex, background and any characteristics"
+
+Whereas the definition of the phrase “age, sex, background and any characteristics” is in line with paragraph 19, it is not directly aligned with paragraph 46. Paragraph 46 focuses more on jurisdiction under private law.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+22) "decision or determination"
+
+The inclusion of the phrase "including factual determinations made by a trial judge" in the definition of "decision or determination" demonstrates the influence of the background facts contained in the source paragraph.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+23) "child or young person"
+
+The definition of the key term "child or young person" has been influenced by the background facts in the paragraph on which it is based. The paragraph discusses the minimum use of force necessary in the child’s best interests, and the definition reflects that.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+24) "emotional and educational needs"
+
+The definition of the phrase "emotional and educational needs" does not reflect the content of the paragraph on which it is based. The paragraph talks more about "Gillick competence".
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+25) "High Court’s inherent jurisdiction"
+
+The definition of the phrase “High Court’s inherent jurisdiction” is influenced by the paragraphs on which it is based. All the paragraphs, except paragraph 14—which is insufficient on its own—discuss the High Court’s inherent jurisdiction in family law matters, particularly those relating to children.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+26) "enquiries"
+
+The definition of the phrase "enquiries" does not reflect the content of the paragraph on which it is based. The paragraph talks about the extent of a local authority’s positive obligations, including its duties and its powers. The definition includes the background fact, which is one of the positive obligations mentioned (investigation).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+27) "risk of being a victim of domestic abuse"
+
+The definition of the phrase "risk of being a victim of domestic abuse" reflects background facts. The paragraph is more centred on the admission of evidence, and this was heavily reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+28) "restricting liberty"
+
+The definition of the phrase “restricting liberty” is influenced by the background facts of the paragraphs on which it is premised. The paragraph discusses the phrase in the context of a vulnerable person, and this is reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+29) "where the child is"
+
+The definition of the phrase “where the child is” is influenced by the background facts in paragraph 43, which discusses locating a child, and this is reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+30) "court"
+
+The definition of the phrase “court” is more closely aligned with paragraph 10 than with paragraph 40. Paragraph 40 is primarily concerned with fact-finding.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+31) "exercise its powers under ... Article 8 of the Hague Convention"
+
+The paragraph on which the phrase "exercise its powers under ... Article 8 of the Hague Convention" is based is too short to base an interpretation on and does not in any way provide any basis for the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+32) "powers of the High Court"
+
+The definition of the phrase “powers of the High Court” is influenced by the background facts, particularly the reference to contempt, which is discussed in the paragraph on which the definition is based.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+33) "judicial act done in good faith"
+
+The definition of the phrase "judicial act done in good faith" reflects background facts due to the reference to judicial restraint, which is central to the paragraph on which it is based.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+34) "lasting power of attorney"
+
+The phrase "lasting power of attorney" was not defined because the LLM states that the provided paragraph does not interpret the phrase.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+35) "making arrangements for C under section 22C(6)(d)"
+
+The definition of the phrase "making arrangements for C under section 22C(6)(d)" reflects background facts because of the mention of registered children’s homes, which was the key issue the paragraph on which the definition is based was considering.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+36) "custody order"
+
+This definition mentions "the Convention" without specifying which one it is. In fact, it refers to the Hague Convention. The reason is that most of the associated paragraphs just say "the Convention," since the full name was introduced in an earlier paragraph. Because only a few paragraphs actually use "Hague Convention," the AI chose to stick with the shorter, more common reference.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+37) "modifying any provision made by or under any enactment"
+
+The definition of the key phrase "modifying any provision made by or under any enactment" is not aligned with the paragraph on which it is based. The paragraph talks more about the limitations of interpretation; thus, as a result, the attempt to model a definition of the phrase based on it reflected background facts.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+38) "account of his dealings"
+The paragraph which the key phrase "account of his dealings" is too short to infer a definition from it. Also it does not mention that term at all.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+39) "registration"
+
+The definition of the phrase "registration" is influenced by background facts because the paragraph discusses the registration of a child’s placement, and this was primarily reflected in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+40) "conveyed to any place"
+
+The definition of the phrase "conveyed to any place" is influenced by background facts, as it reflects the detention of a minor for the purpose of transportation and the use of force where necessary.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+41) and 42) "adoptive relative" 
+ 
+The key phrase "adoptive relative" has been defined twice, and both definitions have background facts influencing them. The first definition discusses extended family relationships because the paragraph on which it is based addresses extended family relationships. The second, on the other hand, discusses sibling relationships because the paragraph on which it is based addresses sibling relationships.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+43) "ensuring, so far as is reasonably practicable"
+
+The phrase "ensuring, so far as is reasonably practicable" was not defined because the LLM said that the paragraph does not interpret the phrase.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+44) "wrongful within the meaning of Article 3 of the Convention"
+
+The paragraph on which the definition of the phrase "wrongful within the meaning of Article 3 of the Convention" is based is not sufficient to define the phrase.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+45) "complainant did not consent"
+
+The paragraph on which the definition of the phrase "complainant did not consent" is based refers to submissions made by one of the lawyers in the case. Until such submissions are expressly accepted or adopted by the court as the authoritative interpretation of the law, they cannot form the basis of a definition. At the point where the court merely references them, they remain background material and cannot properly ground a definition. Accordingly, the definition is influenced by background facts.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+46) "court is of the opinion"
+
+The paragraph on which the definition of the phrase "court is of the opinion" is based discusses the circumstances in which a witness’s opinion is treated as expert evidence rather than a mere subjective opinion. As such, it does not support the definition provided.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+47) "exception to the provision"
+
+The paragraph on which the phrase "exception to the provision" is based does not mention, directly or indirectly, the key phrase. The paragraph talks about participation directions and whether a party is vulnerable.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+48) "diminished by reason of vulnerability"
+
+Paragraph 26, on which the definition of “diminished by reason of vulnerability” is based, is not directly aligned with the definition, as it is more focused on demeanor.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+49) "end of the period of 7 years"
+
+The definition of the phrase "end of the period of 7 years" does not reflect the content of the paragraph on which it is based. The paragraph talks more about the declaration of death and does not in any way suggest that seven years is the period after which, once it elapses, a person will be declared dead, although it is an accurate legal principle.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+50) "express an opinion"
+
+The definition of the phrase "express an opinion" reflects some background facts, particularly where the definition refers to the exercise of discretionary judgment, which was the focus of the paragraph on which it was based.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+51) "establish a procedure for considering any representations"
+
+The definition of the phrase "establish a procedure for considering any representations" is influenced by background facts. The paragraph talks about the sharing and receipt of information, and that is captured in the definition.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+52) "evidence that would have been admissible in the criminal proceedings"
+
+The paragraph on which the definition of the phrase "evidence that would have been admissible in the criminal proceedings" is based talks primarily about fact-finding in family proceedings, not the phrase.
